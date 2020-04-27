@@ -30,3 +30,8 @@ C:\Users\Trabajo\Documents\Visual Studio 2017\Projects\Sistema\Sistema\obj\Debug
 C:\Users\Trabajo\Documents\Visual Studio 2017\Projects\Sistema\Sistema\obj\Debug\netcoreapp2.1\Sistema.dll
 C:\Users\Trabajo\Documents\Visual Studio 2017\Projects\Sistema\Sistema\obj\Debug\netcoreapp2.1\Sistema.pdb
 C:\Users\Trabajo\Documents\Visual Studio 2017\Projects\Sistema\Sistema\obj\Debug\netcoreapp2.1\Sistema.csproj.CopyComplete
+C:\Users\Trabajo\Documents\Visual Studio 2017\Projects\Sistema\Sistema\obj\Debug\netcoreapp2.1\Razor\Views\Categorias\Create.g.cshtml.cs
+C:\Users\Trabajo\Documents\Visual Studio 2017\Projects\Sistema\Sistema\obj\Debug\netcoreapp2.1\Razor\Views\Categorias\Delete.g.cshtml.cs
+C:\Users\Trabajo\Documents\Visual Studio 2017\Projects\Sistema\Sistema\obj\Debug\netcoreapp2.1\Razor\Views\Categorias\Details.g.cshtml.cs
+C:\Users\Trabajo\Documents\Visual Studio 2017\Projects\Sistema\Sistema\obj\Debug\netcoreapp2.1\Razor\Views\Categorias\Edit.g.cshtml.cs
+C:\Users\Trabajo\Documents\Visual Studio 2017\Projects\Sistema\Sistema\obj\Debug\netcoreapp2.1\Razor\Views\Categorias\Index.g.cshtml.cs
